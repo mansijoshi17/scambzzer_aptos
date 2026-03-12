@@ -23,7 +23,7 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: var(--font-geist-sans), "Roboto Condensed", sans-serif;
 }
  
 html {
